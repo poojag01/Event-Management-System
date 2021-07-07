@@ -6,4 +6,4 @@ Event Management System allows admin to create or update the details of the upco
 DBMS, ER Model, MYSQL, Oracle
 
 ## I used online oracle compiler for this project 
-[link](https://rextester.com/l/oracle_online_compiler)
+[link of online oracle compiler](https://rextester.com/l/oracle_online_compiler)
